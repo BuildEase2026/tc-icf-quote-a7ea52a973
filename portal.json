@@ -1,0 +1,1347 @@
+{
+ "portal": "BuildEase ICF Project Environment",
+ "project": {
+  "client": "Earlswood Homes",
+  "job": "Tacolneston, NR16 1BY - 15 plots (6 detached, 2 semi pairs, a terrace of three, 3 bungalows)",
+  "number_prefix": "ES26-092",
+  "status": "QUOTATION",
+  "revision": "",
+  "model_title": "ES26-092 Tacolneston, NR16 1BY - 15 plots (6 detached, 2 semi pairs, a terrace of three, 3 bungalows) - Quotation"
+ },
+ "default_view": "stage-1",
+ "views": [
+  {
+   "id": "stage-1",
+   "kind": "stage",
+   "n": 1,
+   "title": "Plot 1 (4-bed detached)",
+   "desc": "Plot 1 - 4-bed detached, rooms in the roof, with the single-storey open-plan extension + store: 328 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 4,050 eaves and up the gables to the 7,921 ridge. Steels (preliminary) over the 5.32 m bi-fold, the side doors and the first floor transfer over the open plan. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "focus": false
+  },
+  {
+   "id": "stage-2",
+   "kind": "stage",
+   "n": 2,
+   "title": "Plots 2 + 3 (semi-detached pair)",
+   "desc": "Plots 2 + 3 - semi-detached pair, two storey, ICF party wall: 331 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 4,950 eaves and up the gables to the 9,353 ridge. Slab, first floor, trussed roof and windows as design assumptions.",
+   "focus": false
+  },
+  {
+   "id": "stage-3",
+   "kind": "stage",
+   "n": 3,
+   "title": "Plot 4 (detached)",
+   "desc": "Plot 4 - detached, rooms in the roof: 233 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 3,900 eaves and up the gables to the 8,080 ridge. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "focus": false
+  },
+  {
+   "id": "stage-4",
+   "kind": "stage",
+   "n": 4,
+   "title": "Plots 5 + 6 (semi-detached pair)",
+   "desc": "Plots 5 + 6 - semi-detached pair, rooms in the roof, ICF party wall: 282 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 3,900 eaves and up the gables to the 8,756 ridge. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "focus": false
+  },
+  {
+   "id": "stage-5",
+   "kind": "stage",
+   "n": 5,
+   "title": "Plots 7, 8 + 9 (terrace of three)",
+   "desc": "Plots 7, 8 + 9 - terrace of three, rooms in the roof, ICF party walls: 395 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 3,900 eaves and up the gables to the 9,100 ridge. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "focus": false
+  },
+  {
+   "id": "stage-6",
+   "kind": "stage",
+   "n": 6,
+   "title": "Plot 10 (bungalow)",
+   "desc": "Plot 10 - bungalow, gable ends with a front wing: 197 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 2,250 eaves and up the gables to the 5,398 ridge. Slab, trussed roof and windows as design assumptions.",
+   "focus": false
+  },
+  {
+   "id": "stage-7",
+   "kind": "stage",
+   "n": 7,
+   "title": "Plots 11 + 12 (hipped bungalow)",
+   "desc": "Plots 11 + 12 - hipped bungalow, plot 12 = plot 11 handed: 166 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 2,350 eaves and up the gables to the 5,290 ridge. Slab, trussed roof and windows as design assumptions.",
+   "focus": false
+  },
+  {
+   "id": "stage-8",
+   "kind": "stage",
+   "n": 8,
+   "title": "Plot 13 (detached)",
+   "desc": "Plot 13 - detached, rooms in the roof: 184 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 4,350 eaves and up the gables to the 8,638 ridge. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "focus": false
+  },
+  {
+   "id": "stage-9",
+   "kind": "stage",
+   "n": 9,
+   "title": "Plot 14 (4-bed detached as plot 1)",
+   "desc": "Plot 14 - 4-bed detached as plot 1, with the attached garage: 365 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 4,050 eaves and up the gables to the 7,921 ridge. Steels (preliminary) over the 5.32 m bi-fold, the side doors and the first floor transfer over the open plan. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "focus": false
+  },
+  {
+   "id": "stage-10",
+   "kind": "stage",
+   "n": 10,
+   "title": "Plot 15 (detached as plot 4 handed)",
+   "desc": "Plot 15 - detached as plot 4 handed, with the angled garage: 288 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 3,900 eaves and up the gables to the 8,080 ridge. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "focus": false
+  },
+  {
+   "id": "elev-N",
+   "kind": "elevation",
+   "n": 10,
+   "title": "North elevation",
+   "dir": [
+    0.0,
+    0.12,
+    -1.0
+   ],
+   "desc": "Complete structure seen from the north."
+  },
+  {
+   "id": "elev-S",
+   "kind": "elevation",
+   "n": 10,
+   "title": "South elevation",
+   "dir": [
+    0.0,
+    0.12,
+    1.0
+   ],
+   "desc": "Complete structure seen from the south."
+  },
+  {
+   "id": "elev-E",
+   "kind": "elevation",
+   "n": 10,
+   "title": "East elevation",
+   "dir": [
+    1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the east."
+  },
+  {
+   "id": "elev-W",
+   "kind": "elevation",
+   "n": 10,
+   "title": "West elevation",
+   "dir": [
+    -1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the west."
+  }
+ ],
+ "stages": [
+  {
+   "n": 1,
+   "title": "Plot 1 (4-bed detached)",
+   "desc": "Plot 1 - 4-bed detached, rooms in the roof, with the single-storey open-plan extension + store: 328 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 4,050 eaves and up the gables to the 7,921 ridge. Steels (preliminary) over the 5.32 m bi-fold, the side doors and the first floor transfer over the open plan. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1705404
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Plots 2 + 3 (semi-detached pair)",
+   "desc": "Plots 2 + 3 - semi-detached pair, two storey, ICF party wall: 331 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 4,950 eaves and up the gables to the 9,353 ridge. Slab, first floor, trussed roof and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 10658384
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Plot 4 (detached)",
+   "desc": "Plot 4 - detached, rooms in the roof: 233 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 3,900 eaves and up the gables to the 8,080 ridge. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 5647768
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Plots 5 + 6 (semi-detached pair)",
+   "desc": "Plots 5 + 6 - semi-detached pair, rooms in the roof, ICF party wall: 282 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 3,900 eaves and up the gables to the 8,756 ridge. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 8621360
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Plots 7, 8 + 9 (terrace of three)",
+   "desc": "Plots 7, 8 + 9 - terrace of three, rooms in the roof, ICF party walls: 395 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 3,900 eaves and up the gables to the 9,100 ridge. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 12915120
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Plot 10 (bungalow)",
+   "desc": "Plot 10 - bungalow, gable ends with a front wing: 197 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 2,250 eaves and up the gables to the 5,398 ridge. Slab, trussed roof and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-6.glb",
+     "part": null,
+     "label": null,
+     "bytes": 3503416
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Plots 11 + 12 (hipped bungalow)",
+   "desc": "Plots 11 + 12 - hipped bungalow, plot 12 = plot 11 handed: 166 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 2,350 eaves and up the gables to the 5,290 ridge. Slab, trussed roof and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-7.glb",
+     "part": null,
+     "label": null,
+     "bytes": 4475704
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Plot 13 (detached)",
+   "desc": "Plot 13 - detached, rooms in the roof: 184 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 4,350 eaves and up the gables to the 8,638 ridge. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-8.glb",
+     "part": null,
+     "label": null,
+     "bytes": 4986396
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Plot 14 (4-bed detached as plot 1)",
+   "desc": "Plot 14 - 4-bed detached as plot 1, with the attached garage: 365 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 4,050 eaves and up the gables to the 7,921 ridge. Steels (preliminary) over the 5.32 m bi-fold, the side doors and the first floor transfer over the open plan. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-9.glb",
+     "part": null,
+     "label": null,
+     "bytes": 2335648
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "title": "Plot 15 (detached as plot 4 handed)",
+   "desc": "Plot 15 - detached as plot 4 handed, with the angled garage: 288 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 3,900 eaves and up the gables to the 8,080 ridge. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-10.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1551176
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "quote",
+   "title": "Quotation",
+   "note": "The Nudura proposal for all fifteen plots (supply of the ICF materials and accessories, the BuildEase pre-cut service, alignment hire and haulage), with the pallet stack sheets and artic load plans for each building.",
+   "zip": {
+    "file": "downloads/ES26-092 Quotation.zip",
+    "bytes": 2382555,
+    "count": 21
+   },
+   "docs": [
+    {
+     "id": "ES26-092-LP-01A",
+     "title": "Artic Load Plans - Plot 1",
+     "file": "docs/quote/ES26-092-LP-01A Artic Load Plans - Plot 1.pdf",
+     "pages": 2,
+     "thumb": "thumbs/ES26-092-LP-01A.png",
+     "bytes": 33819,
+     "number": "ES26-092-LP-01A",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-LP-01B",
+     "title": "Artic Load Plans - Plots 2 + 3",
+     "file": "docs/quote/ES26-092-LP-01B Artic Load Plans - Plots 2 + 3.pdf",
+     "pages": 2,
+     "thumb": "thumbs/ES26-092-LP-01B.png",
+     "bytes": 33832,
+     "number": "ES26-092-LP-01B",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-LP-01C",
+     "title": "Artic Load Plans - Plot 4",
+     "file": "docs/quote/ES26-092-LP-01C Artic Load Plans - Plot 4.pdf",
+     "pages": 2,
+     "thumb": "thumbs/ES26-092-LP-01C.png",
+     "bytes": 33438,
+     "number": "ES26-092-LP-01C",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-LP-01D",
+     "title": "Artic Load Plans - Plots 5 + 6",
+     "file": "docs/quote/ES26-092-LP-01D Artic Load Plans - Plots 5 + 6.pdf",
+     "pages": 2,
+     "thumb": "thumbs/ES26-092-LP-01D.png",
+     "bytes": 33665,
+     "number": "ES26-092-LP-01D",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-LP-01E",
+     "title": "Artic Load Plans - Plots 7, 8 + 9",
+     "file": "docs/quote/ES26-092-LP-01E Artic Load Plans - Plots 7, 8 + 9.pdf",
+     "pages": 2,
+     "thumb": "thumbs/ES26-092-LP-01E.png",
+     "bytes": 33973,
+     "number": "ES26-092-LP-01E",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-LP-01F",
+     "title": "Artic Load Plans - Plot 10",
+     "file": "docs/quote/ES26-092-LP-01F Artic Load Plans - Plot 10.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-LP-01F.png",
+     "bytes": 31633,
+     "number": "ES26-092-LP-01F",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-LP-01G",
+     "title": "Artic Load Plans - Plots 11 + 12",
+     "file": "docs/quote/ES26-092-LP-01G Artic Load Plans - Plots 11 + 12.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-LP-01G.png",
+     "bytes": 31580,
+     "number": "ES26-092-LP-01G",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-LP-01H",
+     "title": "Artic Load Plans - Plot 13",
+     "file": "docs/quote/ES26-092-LP-01H Artic Load Plans - Plot 13.pdf",
+     "pages": 2,
+     "thumb": "thumbs/ES26-092-LP-01H.png",
+     "bytes": 33421,
+     "number": "ES26-092-LP-01H",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-LP-01I",
+     "title": "Artic Load Plans - Plot 14",
+     "file": "docs/quote/ES26-092-LP-01I Artic Load Plans - Plot 14.pdf",
+     "pages": 3,
+     "thumb": "thumbs/ES26-092-LP-01I.png",
+     "bytes": 35608,
+     "number": "ES26-092-LP-01I",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-LP-01J",
+     "title": "Artic Load Plans - Plot 15",
+     "file": "docs/quote/ES26-092-LP-01J Artic Load Plans - Plot 15.pdf",
+     "pages": 2,
+     "thumb": "thumbs/ES26-092-LP-01J.png",
+     "bytes": 33862,
+     "number": "ES26-092-LP-01J",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-PR-01",
+     "title": "Nudura Proposal - plots 1 to 15",
+     "file": "docs/quote/ES26-092-PR-01 Nudura Proposal - plots 1 to 15.pdf",
+     "pages": 5,
+     "thumb": "thumbs/ES26-092-PR-01.png",
+     "bytes": 378979,
+     "number": "ES26-092-PR-01",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-PS-01A",
+     "title": "Pallet Stack Sheets - Plot 1",
+     "file": "docs/quote/ES26-092-PS-01A Pallet Stack Sheets - Plot 1.pdf",
+     "pages": 15,
+     "thumb": "thumbs/ES26-092-PS-01A.png",
+     "bytes": 290171,
+     "number": "ES26-092-PS-01A",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-PS-01B",
+     "title": "Pallet Stack Sheets - Plots 2 + 3",
+     "file": "docs/quote/ES26-092-PS-01B Pallet Stack Sheets - Plots 2 + 3.pdf",
+     "pages": 15,
+     "thumb": "thumbs/ES26-092-PS-01B.png",
+     "bytes": 221554,
+     "number": "ES26-092-PS-01B",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-PS-01C",
+     "title": "Pallet Stack Sheets - Plot 4",
+     "file": "docs/quote/ES26-092-PS-01C Pallet Stack Sheets - Plot 4.pdf",
+     "pages": 11,
+     "thumb": "thumbs/ES26-092-PS-01C.png",
+     "bytes": 212488,
+     "number": "ES26-092-PS-01C",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-PS-01D",
+     "title": "Pallet Stack Sheets - Plots 5 + 6",
+     "file": "docs/quote/ES26-092-PS-01D Pallet Stack Sheets - Plots 5 + 6.pdf",
+     "pages": 14,
+     "thumb": "thumbs/ES26-092-PS-01D.png",
+     "bytes": 187943,
+     "number": "ES26-092-PS-01D",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-PS-01E",
+     "title": "Pallet Stack Sheets - Plots 7, 8 + 9",
+     "file": "docs/quote/ES26-092-PS-01E Pallet Stack Sheets - Plots 7, 8 + 9.pdf",
+     "pages": 18,
+     "thumb": "thumbs/ES26-092-PS-01E.png",
+     "bytes": 236094,
+     "number": "ES26-092-PS-01E",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-PS-01F",
+     "title": "Pallet Stack Sheets - Plot 10",
+     "file": "docs/quote/ES26-092-PS-01F Pallet Stack Sheets - Plot 10.pdf",
+     "pages": 9,
+     "thumb": "thumbs/ES26-092-PS-01F.png",
+     "bytes": 196777,
+     "number": "ES26-092-PS-01F",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-PS-01G",
+     "title": "Pallet Stack Sheets - Plots 11 + 12",
+     "file": "docs/quote/ES26-092-PS-01G Pallet Stack Sheets - Plots 11 + 12.pdf",
+     "pages": 8,
+     "thumb": "thumbs/ES26-092-PS-01G.png",
+     "bytes": 159726,
+     "number": "ES26-092-PS-01G",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-PS-01H",
+     "title": "Pallet Stack Sheets - Plot 13",
+     "file": "docs/quote/ES26-092-PS-01H Pallet Stack Sheets - Plot 13.pdf",
+     "pages": 10,
+     "thumb": "thumbs/ES26-092-PS-01H.png",
+     "bytes": 156182,
+     "number": "ES26-092-PS-01H",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-PS-01I",
+     "title": "Pallet Stack Sheets - Plot 14",
+     "file": "docs/quote/ES26-092-PS-01I Pallet Stack Sheets - Plot 14.pdf",
+     "pages": 18,
+     "thumb": "thumbs/ES26-092-PS-01I.png",
+     "bytes": 312596,
+     "number": "ES26-092-PS-01I",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-PS-01J",
+     "title": "Pallet Stack Sheets - Plot 15",
+     "file": "docs/quote/ES26-092-PS-01J Pallet Stack Sheets - Plot 15.pdf",
+     "pages": 15,
+     "thumb": "thumbs/ES26-092-PS-01J.png",
+     "bytes": 257046,
+     "number": "ES26-092-PS-01J",
+     "view": "stage-1",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "bA",
+   "title": "Plot 1 (4-bed detached)",
+   "note": "Plot 1 - the ICF general arrangements, wall elevations and a section.",
+   "zip": {
+    "file": "downloads/ES26-092 Plot 1 (4-bed detached).zip",
+    "bytes": 449735,
+    "count": 6
+   },
+   "docs": [
+    {
+     "id": "ES26-092-GA-01A",
+     "title": "Foundation ICF General Arrangement - Plot 1 (4-bed detached)",
+     "file": "docs/bA/ES26-092-GA-01A Foundation ICF General Arrangement - Plot 1 (4-bed detached).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-01A.png",
+     "bytes": 60225,
+     "number": "ES26-092-GA-01A",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-GA-02A",
+     "title": "Ground Floor ICF General Arrangement - Plot 1 (4-bed detached)",
+     "file": "docs/bA/ES26-092-GA-02A Ground Floor ICF General Arrangement - Plot 1 (4-bed detached).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-02A.png",
+     "bytes": 66324,
+     "number": "ES26-092-GA-02A",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-GA-03A",
+     "title": "First Floor + Gables ICF General Arrangement - Plot 1 (4-bed detached)",
+     "file": "docs/bA/ES26-092-GA-03A First Floor + Gables ICF General Arrangement - Plot 1 (4-bed detached).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-03A.png",
+     "bytes": 60564,
+     "number": "ES26-092-GA-03A",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-01A",
+     "title": "Front and Rear Elevations - Plot 1 (4-bed detached)",
+     "file": "docs/bA/ES26-092-EL-01A Front and Rear Elevations - Plot 1 (4-bed detached).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-01A.png",
+     "bytes": 152144,
+     "number": "ES26-092-EL-01A",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-02A",
+     "title": "Side Elevations - Plot 1 (4-bed detached)",
+     "file": "docs/bA/ES26-092-EL-02A Side Elevations - Plot 1 (4-bed detached).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-02A.png",
+     "bytes": 144699,
+     "number": "ES26-092-EL-02A",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-SE-01A",
+     "title": "Section A-A - Plot 1 (4-bed detached)",
+     "file": "docs/bA/ES26-092-SE-01A Section A-A - Plot 1 (4-bed detached).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-SE-01A.png",
+     "bytes": 74753,
+     "number": "ES26-092-SE-01A",
+     "view": "stage-1",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "bB",
+   "title": "Plots 2 + 3 (semi-detached pair)",
+   "note": "Plots 2 + 3 - the ICF general arrangements, wall elevations and a section.",
+   "zip": {
+    "file": "downloads/ES26-092 Plots 2 + 3 (semi-detached pair).zip",
+    "bytes": 369397,
+    "count": 6
+   },
+   "docs": [
+    {
+     "id": "ES26-092-GA-01B",
+     "title": "Foundation ICF General Arrangement - Plots 2 + 3 (semi-detached pair)",
+     "file": "docs/bB/ES26-092-GA-01B Foundation ICF General Arrangement - Plots 2 + 3 (semi-detached pair).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-01B.png",
+     "bytes": 55620,
+     "number": "ES26-092-GA-01B",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-GA-02B",
+     "title": "Ground Floor ICF General Arrangement - Plots 2 + 3 (semi-detached pair)",
+     "file": "docs/bB/ES26-092-GA-02B Ground Floor ICF General Arrangement - Plots 2 + 3 (semi-detached pair).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-02B.png",
+     "bytes": 59807,
+     "number": "ES26-092-GA-02B",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-GA-03B",
+     "title": "First Floor + Gables ICF General Arrangement - Plots 2 + 3 (semi-detached pair)",
+     "file": "docs/bB/ES26-092-GA-03B First Floor + Gables ICF General Arrangement - Plots 2 + 3 (semi-detached pair).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-03B.png",
+     "bytes": 56765,
+     "number": "ES26-092-GA-03B",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-01B",
+     "title": "Front and Rear Elevations - Plots 2 + 3 (semi-detached pair)",
+     "file": "docs/bB/ES26-092-EL-01B Front and Rear Elevations - Plots 2 + 3 (semi-detached pair).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-01B.png",
+     "bytes": 113076,
+     "number": "ES26-092-EL-01B",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-02B",
+     "title": "Side Elevations - Plots 2 + 3 (semi-detached pair)",
+     "file": "docs/bB/ES26-092-EL-02B Side Elevations - Plots 2 + 3 (semi-detached pair).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-02B.png",
+     "bytes": 109506,
+     "number": "ES26-092-EL-02B",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-SE-01B",
+     "title": "Section A-A - Plots 2 + 3 (semi-detached pair)",
+     "file": "docs/bB/ES26-092-SE-01B Section A-A - Plots 2 + 3 (semi-detached pair).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-SE-01B.png",
+     "bytes": 65612,
+     "number": "ES26-092-SE-01B",
+     "view": "stage-1",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "bC",
+   "title": "Plot 4 (detached)",
+   "note": "Plot 4 - the ICF general arrangements, wall elevations and a section.",
+   "zip": {
+    "file": "downloads/ES26-092 Plot 4 (detached).zip",
+    "bytes": 379604,
+    "count": 6
+   },
+   "docs": [
+    {
+     "id": "ES26-092-GA-01C",
+     "title": "Foundation ICF General Arrangement - Plot 4 (detached)",
+     "file": "docs/bC/ES26-092-GA-01C Foundation ICF General Arrangement - Plot 4 (detached).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-01C.png",
+     "bytes": 56119,
+     "number": "ES26-092-GA-01C",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-GA-02C",
+     "title": "Ground Floor ICF General Arrangement - Plot 4 (detached)",
+     "file": "docs/bC/ES26-092-GA-02C Ground Floor ICF General Arrangement - Plot 4 (detached).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-02C.png",
+     "bytes": 60023,
+     "number": "ES26-092-GA-02C",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-GA-03C",
+     "title": "First Floor + Gables ICF General Arrangement - Plot 4 (detached)",
+     "file": "docs/bC/ES26-092-GA-03C First Floor + Gables ICF General Arrangement - Plot 4 (detached).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-03C.png",
+     "bytes": 59730,
+     "number": "ES26-092-GA-03C",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-01C",
+     "title": "Front and Rear Elevations - Plot 4 (detached)",
+     "file": "docs/bC/ES26-092-EL-01C Front and Rear Elevations - Plot 4 (detached).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-01C.png",
+     "bytes": 112913,
+     "number": "ES26-092-EL-01C",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-02C",
+     "title": "Side Elevations - Plot 4 (detached)",
+     "file": "docs/bC/ES26-092-EL-02C Side Elevations - Plot 4 (detached).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-02C.png",
+     "bytes": 112641,
+     "number": "ES26-092-EL-02C",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-SE-01C",
+     "title": "Section A-A - Plot 4 (detached)",
+     "file": "docs/bC/ES26-092-SE-01C Section A-A - Plot 4 (detached).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-SE-01C.png",
+     "bytes": 71008,
+     "number": "ES26-092-SE-01C",
+     "view": "stage-1",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "bD",
+   "title": "Plots 5 + 6 (semi-detached pair)",
+   "note": "Plots 5 + 6 - the ICF general arrangements, wall elevations and a section.",
+   "zip": {
+    "file": "downloads/ES26-092 Plots 5 + 6 (semi-detached pair).zip",
+    "bytes": 377824,
+    "count": 6
+   },
+   "docs": [
+    {
+     "id": "ES26-092-GA-01D",
+     "title": "Foundation ICF General Arrangement - Plots 5 + 6 (semi-detached pair)",
+     "file": "docs/bD/ES26-092-GA-01D Foundation ICF General Arrangement - Plots 5 + 6 (semi-detached pair).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-01D.png",
+     "bytes": 55598,
+     "number": "ES26-092-GA-01D",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-GA-02D",
+     "title": "Ground Floor ICF General Arrangement - Plots 5 + 6 (semi-detached pair)",
+     "file": "docs/bD/ES26-092-GA-02D Ground Floor ICF General Arrangement - Plots 5 + 6 (semi-detached pair).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-02D.png",
+     "bytes": 59600,
+     "number": "ES26-092-GA-02D",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-GA-03D",
+     "title": "First Floor + Gables ICF General Arrangement - Plots 5 + 6 (semi-detached pair)",
+     "file": "docs/bD/ES26-092-GA-03D First Floor + Gables ICF General Arrangement - Plots 5 + 6 (semi-detached pair).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-03D.png",
+     "bytes": 58618,
+     "number": "ES26-092-GA-03D",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-01D",
+     "title": "Front and Rear Elevations - Plots 5 + 6 (semi-detached pair)",
+     "file": "docs/bD/ES26-092-EL-01D Front and Rear Elevations - Plots 5 + 6 (semi-detached pair).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-01D.png",
+     "bytes": 114760,
+     "number": "ES26-092-EL-01D",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-02D",
+     "title": "Side Elevations - Plots 5 + 6 (semi-detached pair)",
+     "file": "docs/bD/ES26-092-EL-02D Side Elevations - Plots 5 + 6 (semi-detached pair).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-02D.png",
+     "bytes": 113820,
+     "number": "ES26-092-EL-02D",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-SE-01D",
+     "title": "Section A-A - Plots 5 + 6 (semi-detached pair)",
+     "file": "docs/bD/ES26-092-SE-01D Section A-A - Plots 5 + 6 (semi-detached pair).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-SE-01D.png",
+     "bytes": 67958,
+     "number": "ES26-092-SE-01D",
+     "view": "stage-1",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "bE",
+   "title": "Plots 7, 8 + 9 (terrace of three)",
+   "note": "Plots 7, 8 + 9 - the ICF general arrangements, wall elevations and a section.",
+   "zip": {
+    "file": "downloads/ES26-092 Plots 7, 8 + 9 (terrace of three).zip",
+    "bytes": 416715,
+    "count": 6
+   },
+   "docs": [
+    {
+     "id": "ES26-092-GA-01E",
+     "title": "Foundation ICF General Arrangement - Plots 7, 8 + 9 (terrace of three)",
+     "file": "docs/bE/ES26-092-GA-01E Foundation ICF General Arrangement - Plots 7, 8 + 9 (terrace of three).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-01E.png",
+     "bytes": 55955,
+     "number": "ES26-092-GA-01E",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-GA-02E",
+     "title": "Ground Floor ICF General Arrangement - Plots 7, 8 + 9 (terrace of three)",
+     "file": "docs/bE/ES26-092-GA-02E Ground Floor ICF General Arrangement - Plots 7, 8 + 9 (terrace of three).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-02E.png",
+     "bytes": 61536,
+     "number": "ES26-092-GA-02E",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-GA-03E",
+     "title": "First Floor + Gables ICF General Arrangement - Plots 7, 8 + 9 (terrace of three)",
+     "file": "docs/bE/ES26-092-GA-03E First Floor + Gables ICF General Arrangement - Plots 7, 8 + 9 (terrace of three).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-03E.png",
+     "bytes": 59642,
+     "number": "ES26-092-GA-03E",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-01E",
+     "title": "Front and Rear Elevations - Plots 7, 8 + 9 (terrace of three)",
+     "file": "docs/bE/ES26-092-EL-01E Front and Rear Elevations - Plots 7, 8 + 9 (terrace of three).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-01E.png",
+     "bytes": 137481,
+     "number": "ES26-092-EL-01E",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-02E",
+     "title": "Side Elevations - Plots 7, 8 + 9 (terrace of three)",
+     "file": "docs/bE/ES26-092-EL-02E Side Elevations - Plots 7, 8 + 9 (terrace of three).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-02E.png",
+     "bytes": 132586,
+     "number": "ES26-092-EL-02E",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-SE-01E",
+     "title": "Section A-A - Plots 7, 8 + 9 (terrace of three)",
+     "file": "docs/bE/ES26-092-SE-01E Section A-A - Plots 7, 8 + 9 (terrace of three).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-SE-01E.png",
+     "bytes": 71448,
+     "number": "ES26-092-SE-01E",
+     "view": "stage-1",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "bF",
+   "title": "Plot 10 (bungalow)",
+   "note": "Plot 10 - the ICF general arrangements, wall elevations and a section.",
+   "zip": {
+    "file": "downloads/ES26-092 Plot 10 (bungalow).zip",
+    "bytes": 331183,
+    "count": 5
+   },
+   "docs": [
+    {
+     "id": "ES26-092-GA-01F",
+     "title": "Foundation ICF General Arrangement - Plot 10 (bungalow)",
+     "file": "docs/bF/ES26-092-GA-01F Foundation ICF General Arrangement - Plot 10 (bungalow).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-01F.png",
+     "bytes": 56618,
+     "number": "ES26-092-GA-01F",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-GA-02F",
+     "title": "Ground Floor ICF General Arrangement - Plot 10 (bungalow)",
+     "file": "docs/bF/ES26-092-GA-02F Ground Floor ICF General Arrangement - Plot 10 (bungalow).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-02F.png",
+     "bytes": 60347,
+     "number": "ES26-092-GA-02F",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-01F",
+     "title": "Front and Rear Elevations - Plot 10 (bungalow)",
+     "file": "docs/bF/ES26-092-EL-01F Front and Rear Elevations - Plot 10 (bungalow).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-01F.png",
+     "bytes": 116173,
+     "number": "ES26-092-EL-01F",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-02F",
+     "title": "Side Elevations - Plot 10 (bungalow)",
+     "file": "docs/bF/ES26-092-EL-02F Side Elevations - Plot 10 (bungalow).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-02F.png",
+     "bytes": 113394,
+     "number": "ES26-092-EL-02F",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-SE-01F",
+     "title": "Section A-A - Plot 10 (bungalow)",
+     "file": "docs/bF/ES26-092-SE-01F Section A-A - Plot 10 (bungalow).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-SE-01F.png",
+     "bytes": 65427,
+     "number": "ES26-092-SE-01F",
+     "view": "stage-1",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "bG",
+   "title": "Plots 11 + 12 (hipped bungalow)",
+   "note": "Plots 11 + 12 - the ICF general arrangements, wall elevations and a section.",
+   "zip": {
+    "file": "downloads/ES26-092 Plots 11 + 12 (hipped bungalow).zip",
+    "bytes": 314171,
+    "count": 5
+   },
+   "docs": [
+    {
+     "id": "ES26-092-GA-01G",
+     "title": "Foundation ICF General Arrangement - Plots 11 + 12 (hipped bungalow)",
+     "file": "docs/bG/ES26-092-GA-01G Foundation ICF General Arrangement - Plots 11 + 12 (hipped bungalow).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-01G.png",
+     "bytes": 56168,
+     "number": "ES26-092-GA-01G",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-GA-02G",
+     "title": "Ground Floor ICF General Arrangement - Plots 11 + 12 (hipped bungalow)",
+     "file": "docs/bG/ES26-092-GA-02G Ground Floor ICF General Arrangement - Plots 11 + 12 (hipped bungalow).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-02G.png",
+     "bytes": 60207,
+     "number": "ES26-092-GA-02G",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-01G",
+     "title": "Front and Rear Elevations - Plots 11 + 12 (hipped bungalow)",
+     "file": "docs/bG/ES26-092-EL-01G Front and Rear Elevations - Plots 11 + 12 (hipped bungalow).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-01G.png",
+     "bytes": 111074,
+     "number": "ES26-092-EL-01G",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-02G",
+     "title": "Side Elevations - Plots 11 + 12 (hipped bungalow)",
+     "file": "docs/bG/ES26-092-EL-02G Side Elevations - Plots 11 + 12 (hipped bungalow).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-02G.png",
+     "bytes": 99024,
+     "number": "ES26-092-EL-02G",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-SE-01G",
+     "title": "Section A-A - Plots 11 + 12 (hipped bungalow)",
+     "file": "docs/bG/ES26-092-SE-01G Section A-A - Plots 11 + 12 (hipped bungalow).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-SE-01G.png",
+     "bytes": 64652,
+     "number": "ES26-092-SE-01G",
+     "view": "stage-1",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "bH",
+   "title": "Plot 13 (detached)",
+   "note": "Plot 13 - the ICF general arrangements, wall elevations and a section.",
+   "zip": {
+    "file": "downloads/ES26-092 Plot 13 (detached).zip",
+    "bytes": 348231,
+    "count": 6
+   },
+   "docs": [
+    {
+     "id": "ES26-092-GA-01H",
+     "title": "Foundation ICF General Arrangement - Plot 13 (detached)",
+     "file": "docs/bH/ES26-092-GA-01H Foundation ICF General Arrangement - Plot 13 (detached).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-01H.png",
+     "bytes": 55223,
+     "number": "ES26-092-GA-01H",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-GA-02H",
+     "title": "Ground Floor ICF General Arrangement - Plot 13 (detached)",
+     "file": "docs/bH/ES26-092-GA-02H Ground Floor ICF General Arrangement - Plot 13 (detached).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-02H.png",
+     "bytes": 58192,
+     "number": "ES26-092-GA-02H",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-GA-03H",
+     "title": "First Floor + Gables ICF General Arrangement - Plot 13 (detached)",
+     "file": "docs/bH/ES26-092-GA-03H First Floor + Gables ICF General Arrangement - Plot 13 (detached).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-03H.png",
+     "bytes": 58451,
+     "number": "ES26-092-GA-03H",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-01H",
+     "title": "Front and Rear Elevations - Plot 13 (detached)",
+     "file": "docs/bH/ES26-092-EL-01H Front and Rear Elevations - Plot 13 (detached).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-01H.png",
+     "bytes": 85965,
+     "number": "ES26-092-EL-01H",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-02H",
+     "title": "Side Elevations - Plot 13 (detached)",
+     "file": "docs/bH/ES26-092-EL-02H Side Elevations - Plot 13 (detached).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-02H.png",
+     "bytes": 102814,
+     "number": "ES26-092-EL-02H",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-SE-01H",
+     "title": "Section A-A - Plot 13 (detached)",
+     "file": "docs/bH/ES26-092-SE-01H Section A-A - Plot 13 (detached).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-SE-01H.png",
+     "bytes": 73129,
+     "number": "ES26-092-SE-01H",
+     "view": "stage-1",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "bI",
+   "title": "Plot 14 (4-bed detached as plot 1)",
+   "note": "Plot 14 - the ICF general arrangements, wall elevations and a section.",
+   "zip": {
+    "file": "downloads/ES26-092 Plot 14 (4-bed detached as plot 1).zip",
+    "bytes": 453836,
+    "count": 6
+   },
+   "docs": [
+    {
+     "id": "ES26-092-GA-01I",
+     "title": "Foundation ICF General Arrangement - Plot 14 (4-bed detached as plot 1)",
+     "file": "docs/bI/ES26-092-GA-01I Foundation ICF General Arrangement - Plot 14 (4-bed detached as plot 1).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-01I.png",
+     "bytes": 59210,
+     "number": "ES26-092-GA-01I",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-GA-02I",
+     "title": "Ground Floor ICF General Arrangement - Plot 14 (4-bed detached as plot 1)",
+     "file": "docs/bI/ES26-092-GA-02I Ground Floor ICF General Arrangement - Plot 14 (4-bed detached as plot 1).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-02I.png",
+     "bytes": 65047,
+     "number": "ES26-092-GA-02I",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-GA-03I",
+     "title": "First Floor + Gables ICF General Arrangement - Plot 14 (4-bed detached as plot 1)",
+     "file": "docs/bI/ES26-092-GA-03I First Floor + Gables ICF General Arrangement - Plot 14 (4-bed detached as plot 1).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-03I.png",
+     "bytes": 60432,
+     "number": "ES26-092-GA-03I",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-01I",
+     "title": "Front and Rear Elevations - Plot 14 (4-bed detached as plot 1)",
+     "file": "docs/bI/ES26-092-EL-01I Front and Rear Elevations - Plot 14 (4-bed detached as plot 1).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-01I.png",
+     "bytes": 161885,
+     "number": "ES26-092-EL-01I",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-02I",
+     "title": "Side Elevations - Plot 14 (4-bed detached as plot 1)",
+     "file": "docs/bI/ES26-092-EL-02I Side Elevations - Plot 14 (4-bed detached as plot 1).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-02I.png",
+     "bytes": 145598,
+     "number": "ES26-092-EL-02I",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-SE-01I",
+     "title": "Section A-A - Plot 14 (4-bed detached as plot 1)",
+     "file": "docs/bI/ES26-092-SE-01I Section A-A - Plot 14 (4-bed detached as plot 1).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-SE-01I.png",
+     "bytes": 71448,
+     "number": "ES26-092-SE-01I",
+     "view": "stage-1",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "bJ",
+   "title": "Plot 15 (detached as plot 4 handed)",
+   "note": "Plot 15 - the ICF general arrangements, wall elevations and a section.",
+   "zip": {
+    "file": "downloads/ES26-092 Plot 15 (detached as plot 4 handed).zip",
+    "bytes": 451870,
+    "count": 6
+   },
+   "docs": [
+    {
+     "id": "ES26-092-GA-01J",
+     "title": "Foundation ICF General Arrangement - Plot 15 (detached as plot 4 handed)",
+     "file": "docs/bJ/ES26-092-GA-01J Foundation ICF General Arrangement - Plot 15 (detached as plot 4 handed).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-01J.png",
+     "bytes": 57681,
+     "number": "ES26-092-GA-01J",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-GA-02J",
+     "title": "Ground Floor ICF General Arrangement - Plot 15 (detached as plot 4 handed)",
+     "file": "docs/bJ/ES26-092-GA-02J Ground Floor ICF General Arrangement - Plot 15 (detached as plot 4 handed).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-02J.png",
+     "bytes": 64559,
+     "number": "ES26-092-GA-02J",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-GA-03J",
+     "title": "First Floor + Gables ICF General Arrangement - Plot 15 (detached as plot 4 handed)",
+     "file": "docs/bJ/ES26-092-GA-03J First Floor + Gables ICF General Arrangement - Plot 15 (detached as plot 4 handed).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-GA-03J.png",
+     "bytes": 59912,
+     "number": "ES26-092-GA-03J",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-01J",
+     "title": "Front and Rear Elevations - Plot 15 (detached as plot 4 handed)",
+     "file": "docs/bJ/ES26-092-EL-01J Front and Rear Elevations - Plot 15 (detached as plot 4 handed).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-01J.png",
+     "bytes": 155007,
+     "number": "ES26-092-EL-01J",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-EL-02J",
+     "title": "Side Elevations - Plot 15 (detached as plot 4 handed)",
+     "file": "docs/bJ/ES26-092-EL-02J Side Elevations - Plot 15 (detached as plot 4 handed).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-EL-02J.png",
+     "bytes": 148476,
+     "number": "ES26-092-EL-02J",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-092-SE-01J",
+     "title": "Section A-A - Plot 15 (detached as plot 4 handed)",
+     "file": "docs/bJ/ES26-092-SE-01J Section A-A - Plot 15 (detached as plot 4 handed).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-092-SE-01J.png",
+     "bytes": 75584,
+     "number": "ES26-092-SE-01J",
+     "view": "stage-1",
+     "view_opts": {}
+    }
+   ]
+  }
+ ],
+ "focus": null,
+ "isolate_stages": true,
+ "toggles": [
+  {
+   "label": "Roof structure + dormers",
+   "materials": [
+    "RoofStruct_*"
+   ],
+   "default": true,
+   "stages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "label": "First floor",
+   "materials": [
+    "Metal-web joist (indicative)",
+    "Egger Protect P5 deck"
+   ],
+   "default": true,
+   "stages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "label": "Windows + doors",
+   "materials": [
+    "Glazing (indicative)",
+    "Window frame (indicative)",
+    "Door leaf (indicative)"
+   ],
+   "default": true,
+   "stages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  }
+ ],
+ "download_all": {
+  "file": "downloads/ES26-092 Tacolneston, NR16 1BY - 15 plots (6 detached, 2 semi pairs, a terrace of three, 3 bungalows) - Quotation.zip",
+  "bytes": 6275533,
+  "count": 79,
+  "title": "Download everything"
+ }
+}

@@ -1,0 +1,136 @@
+{
+ "job": "Tacolneston, NR16 1BY - 15 plots (6 detached, 2 semi pairs, a terrace of three, 3 bungalows)",
+ "revision": "",
+ "stages": [
+  {
+   "n": 1,
+   "title": "Plot 1 (4-bed detached)",
+   "desc": "Plot 1 - 4-bed detached, rooms in the roof, with the single-storey open-plan extension + store: 328 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 4,050 eaves and up the gables to the 7,921 ridge. Steels (preliminary) over the 5.32 m bi-fold, the side doors and the first floor transfer over the open plan. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1705404
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Plots 2 + 3 (semi-detached pair)",
+   "desc": "Plots 2 + 3 - semi-detached pair, two storey, ICF party wall: 331 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 4,950 eaves and up the gables to the 9,353 ridge. Slab, first floor, trussed roof and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 10658384
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Plot 4 (detached)",
+   "desc": "Plot 4 - detached, rooms in the roof: 233 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 3,900 eaves and up the gables to the 8,080 ridge. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 5647768
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Plots 5 + 6 (semi-detached pair)",
+   "desc": "Plots 5 + 6 - semi-detached pair, rooms in the roof, ICF party wall: 282 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 3,900 eaves and up the gables to the 8,756 ridge. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 8621360
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Plots 7, 8 + 9 (terrace of three)",
+   "desc": "Plots 7, 8 + 9 - terrace of three, rooms in the roof, ICF party walls: 395 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 3,900 eaves and up the gables to the 9,100 ridge. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 12915120
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Plot 10 (bungalow)",
+   "desc": "Plot 10 - bungalow, gable ends with a front wing: 197 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 2,250 eaves and up the gables to the 5,398 ridge. Slab, trussed roof and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-6.glb",
+     "part": null,
+     "label": null,
+     "bytes": 3503416
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Plots 11 + 12 (hipped bungalow)",
+   "desc": "Plots 11 + 12 - hipped bungalow, plot 12 = plot 11 handed: 166 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 2,350 eaves and up the gables to the 5,290 ridge. Slab, trussed roof and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-7.glb",
+     "part": null,
+     "label": null,
+     "bytes": 4475704
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Plot 13 (detached)",
+   "desc": "Plot 13 - detached, rooms in the roof: 184 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 4,350 eaves and up the gables to the 8,638 ridge. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-8.glb",
+     "part": null,
+     "label": null,
+     "bytes": 4986396
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Plot 14 (4-bed detached as plot 1)",
+   "desc": "Plot 14 - 4-bed detached as plot 1, with the attached garage: 365 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 4,050 eaves and up the gables to the 7,921 ridge. Steels (preliminary) over the 5.32 m bi-fold, the side doors and the first floor transfer over the open plan. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-9.glb",
+     "part": null,
+     "label": null,
+     "bytes": 2335648
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "title": "Plot 15 (detached as plot 4 handed)",
+   "desc": "Plot 15 - detached as plot 4 handed, with the angled garage: 288 Nudura 6.6in XR35 forms, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 3,900 eaves and up the gables to the 8,080 ridge. Slab, first floor, vaulted cut roof (rafters on ridge beams, no ceiling ties) with the dormers and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-10.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1551176
+    }
+   ]
+  }
+ ]
+}
